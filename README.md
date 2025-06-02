@@ -20,7 +20,7 @@ Try it out yourself here: [https://wikisearch9988.ccbp.tech/](https://wikisearch
 - JavaScript - Fetching Wikipedia API data, handling user interactions, and dynamically updating content
 
 ## Installation and Setup Instructions
-1. Clone the repository `git clone https://github.com/raj-kishor-pal/wikipedia_search.git`
+1. Clone the repository: `git clone https://github.com/raj-kishor-pal/wikipedia_search.git`
 2. Open the project directory in your code editor.
 3. Open `index.html` in your web browser to view the application.
 
@@ -30,13 +30,6 @@ Enter any keyword or phrase in the search input box.
 Press Enter to submit the search query.
 View the related Wikipedia articles load below.
 Click on any result link to open the full Wikipedia page in a new browser tab.
-
-## Folder Structure
-wikipedia_search/
-├── index.html                 # Main HTML file
-├── script.js                  # JavaScript file handling API and UI logic
-├── styles.css                 # CSS styles
-└── README.md                  # Project documentation
 
 ## Contributing
 Contributions are welcome! Feel free to open issues or submit pull requests.
